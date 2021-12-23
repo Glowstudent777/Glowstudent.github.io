@@ -1,0 +1,41 @@
+.banner {
+    background-color: #212529;
+    background-image: url("../images/tile.png");
+    overflow: hidden;
+    height: 250px;
+    width: 100%;
+    background-repeat: repeat;
+    background-position: center;
+    box-shadow: #1a1e21 0px 0px 5px;
+}
+
+.Title {
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    color: white;
+    z-index: 1;
+    transform: translate(0, -50%);
+    position: relative;
+    top: 50%;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+}
+
+.mainTitle {
+    color: white;
+    font-size: 50px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+}
+
+.smallTitle {
+    color: white;
+    font-size: 35px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+}
+
+.rightPixels {
+    padding-right: 10px;
+}
