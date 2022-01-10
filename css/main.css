@@ -57,3 +57,7 @@
 .centerText {
     text-align: center;
 }
+
+.whitespace {
+    padding-top: 8rem;
+}
