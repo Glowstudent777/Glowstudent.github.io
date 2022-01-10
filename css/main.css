@@ -22,6 +22,19 @@
     font-weight: bold;
 }
 
+.qa {
+    padding-top: 25px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    color: rgba(255, 255, 255, 0.5);
+}
+
+.qaContainer {
+    position: relative;
+    padding-top: 25px;
+}
+
 .mainTitle {
     color: white;
     font-size: 50px;

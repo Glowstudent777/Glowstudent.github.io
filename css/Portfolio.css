@@ -22,6 +22,24 @@
     font-weight: bold;
 }
 
+.honorableMentionsTitle {
+    font-size: 35px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+}
+
+.honorableMentions {
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    color: white;
+    z-index: 1;
+    /*transform: translate(0, -50%);*/
+    position: relative;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+}
+
 .container {
     width: 100%;
     padding-right: var(--bs-gutter-x,.75rem);
@@ -59,3 +77,5 @@
 .rightPixels {
     padding-right: 10px;
 }
+
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.7.2/font/bootstrap-icons.css");
