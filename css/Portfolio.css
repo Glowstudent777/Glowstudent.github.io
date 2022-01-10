@@ -9,6 +9,10 @@
     box-shadow: #1a1e21 0px 0px 5px;
 }
 
+.gnImg {
+    padding-bottom: 10px;
+}
+
 .Title {
     justify-content: center;
     align-items: center;

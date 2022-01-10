@@ -42,6 +42,11 @@
     font-weight: bold;
 }
 
+.color-box {
+    width: 65px;
+    height: 65px;
+}
+
 .smallTitle {
     color: white;
     font-size: 35px;
